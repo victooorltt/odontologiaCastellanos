@@ -14,8 +14,7 @@ export default function LaClinicaPage() {
     <>
       <PageHero
         variant="gradient"
-        imageWrapperClassName="md:left-auto md:right-0 md:w-[60%] lg:w-[55%]"
-        imagePosition="object-left"
+        imagePosition="object-[75%_center]"
         title={
           <>
             Nuestra clínica dental en Avilés:{' '}
